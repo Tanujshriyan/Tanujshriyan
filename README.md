@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1Fl6e9ZT4GNXklMTUdhiDZoSKWFAru2wb" width="1280" height="375" allow="autoplay">
+<img src="https://drive.google.com/uc?export=view&id=1Fl6e9ZT4GNXklMTUdhiDZoSKWFAru2wb" width="1280" height="350" allow="autoplay">
 <h1 align="center">Hi 👋, I'm Tanuj Shriyan</h1>
 <h3 align="center">Data Alchemist: Transforming Raw Data into Insights and Innovations</h3>
 
