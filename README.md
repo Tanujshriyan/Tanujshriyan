@@ -1,8 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1Fl6e9ZT4GNXklMTUdhiDZoSKWFAru2wb" width="1280" height="300" allow="autoplay">
 <h1 align="center">Hi 👋, I'm Tanuj Shriyan</h1>
-<h3 align="center">Data Alchemist: Transforming Raw Data into Insights and Innovations</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujshriyan&label=Profile%20views&color=0e75b6&style=flat" alt="tanujshriyan" /> </p>
+<h3 align="center">Data Alchemist: Transforming Raw Data into Insights and Innovations</h3
 
 - 🌱 I’m currently learning **TensorFlow, Scikit-Learn**
 
