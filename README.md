@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tanujshriyan@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11j0Dz7bB1T5ZhkTzU2cGKas7Fv1XtpMP/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Vp4U8O10FD2fsCLNWRB-ZXTJwLtar-TV/view?usp=sharing))
 
 - ⚡ Fun fact **I think I am funny**
 
