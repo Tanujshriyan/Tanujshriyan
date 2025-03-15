@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujshriyan&label=Profile%20views&color=0e75b6&style=flat" alt="tanujshriyan" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow, Scikit-Learn**
+- 🌱 I’m currently learning **Apache Airflow, Snowflake, Azure**
 
-- 💬 Ask me about **Django, Frontend**
+- 💬 Ask me about **Databricks, DBT, Redshift**
 
 - 📫 How to reach me **tanujshriyan@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Vp4U8O10FD2fsCLNWRB-ZXTJwLtar-TV/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/160PX6fYr_PP0-47AkWv3wVBUgHHYySaR/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
